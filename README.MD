@@ -15,3 +15,11 @@ We would like you to fix the crash bug, ensure the functionality of the app work
 
 Please note that we are not looking for perfection, but rather for a clean and pragmatic solution. This should include refactoring but shouldn’t be over engineered. The test can be completed in 2-3 hours; howerever, this is a not a limit. Feel free to spend more time on it if you wish.
 # CakeList
+
+Few word about this test.
+I started to fix the crash.
+After that, I started to improve the presentation of the CakeCell, I had some Constraint and changed the image layout.
+I make the choose to add one external library (AfNetworking) with Cocoapod. About the data downloading and the image downloading, to get time and because this library is done well. AfNetworking is very used, has a lot of support, regulary maintained...
+To finish, I created models about the fetch data because I think it is good to have that to prepare a possible extension, modification of the fetch data into the JSON.
+
+Good reading ;)
